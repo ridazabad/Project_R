@@ -9,3 +9,11 @@ th, td {
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
+.load-button {
+    display: inline-block;
+    background-color: #007BFF;
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
